@@ -1,0 +1,37 @@
+{
+  "name": "archiejs-kue-enhancer",
+  "description": "Makes it easy to create kue-redis based microservices",
+  "version": "0.1.0",
+  "author": "Naval Saini <navalnovel@gmail.com>",
+  "contributors": [
+    {
+      "name": "Naval Saini",
+      "email": "navalnovel@gmail.com"
+    }
+  ],
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/archiejs/archiejs-kue-enhancer.git"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "archiejs": "^0.1.1",
+    "kue": "^0.10.5"
+  },
+  "devDependencies": {
+    "archiejs": "^0.1.1",
+    "chai": "^3.3.0",
+    "chai-things": "^0.2.0",
+    "mocha": "^2.3.3"
+  },
+  "optionalDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/flipflopapp/archiejs/blob/master/LICENSE"
+    }
+  ]
+}
