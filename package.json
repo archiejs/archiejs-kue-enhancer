@@ -21,7 +21,7 @@
     "kue": "^0.10.5"
   },
   "devDependencies": {
-    "archiejs": "^0.1.1",
+    "archiejs": "^0.2.0",
     "chai": "^3.3.0",
     "chai-things": "^0.2.0",
     "mocha": "^2.3.3"
