@@ -18,7 +18,12 @@
     "test": "mocha test"
   },
   "dependencies": {
-    "kue": "^0.10.5"
+    "debug": "^2.2.0",
+    "kue": "^0.10.5",
+    "parent-require": "^1.0.0"
+  },
+  "peerDependencies": {
+    "archiejs": "^0.2.0"
   },
   "devDependencies": {
     "archiejs": "^0.2.0",
