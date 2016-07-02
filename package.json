@@ -1,7 +1,7 @@
 {
   "name": "archiejs-kue-enhancer",
   "description": "Makes it easy to create kue-redis based microservices",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Naval Saini <navalnovel@gmail.com>",
   "contributors": [
     {
