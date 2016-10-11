@@ -1,7 +1,7 @@
 {
   "name": "archiejs-kue-enhancer",
   "description": "Makes it easy to create kue-redis based microservices",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "author": "Naval Saini <navalnovel@gmail.com>",
   "contributors": [
     {
@@ -23,7 +23,7 @@
     "parent-require": "^1.0.0"
   },
   "peerDependencies": {
-    "archiejs": "^0.2.0"
+    "archiejs": "^0.3.1"
   },
   "devDependencies": {
     "archiejs": "^0.2.0",
